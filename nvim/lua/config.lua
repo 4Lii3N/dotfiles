@@ -1,0 +1,13 @@
+vim.opt.tabstop = 2
+vim.opt.shiftwidth = 2
+vim.wo.number = true
+vim.wo.relativenumber = true
+vim.wo.cursorline = true
+-- vim.opt.colorcolumn = "100"
+vim.opt.scrolloff = 7
+vim.opt.textwidth = 0
+vim.opt.wrapmargin = 0
+vim.wo.wrap = false
+vim.opt.pumheight = 15
+vim.o.splitright = true
+vim.opt.guicursor = "n-v-i-c:block-Cursor"
