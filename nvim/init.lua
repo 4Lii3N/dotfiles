@@ -25,6 +25,3 @@ require("lazy").setup("plugins", {
 		notify = false, -- get a notification when changes are found
 	},
 })
-
--- vim.cmd("colorscheme cyberdream")
--- vim.cmd("colorscheme eldritch")
